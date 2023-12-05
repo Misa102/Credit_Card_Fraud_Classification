@@ -6,7 +6,7 @@
 Ce projet se concentre sur la classification des transactions par carte de crédit afin d'identifier les activités frauduleuses. L'ensemble de données utilisé contient une répartition déséquilibrée entre les transactions normales et frauduleuses, ce qui rend essentiel l'utilisation de mesures d'évaluation appropriées.
 
 ### Dataset
-L'ensemble de données utilisé pour ce projet est chargé à partir d'un fichier CSV nommé « creditcard.csv ». Il comprend des fonctionnalités telles que le temps de transaction (Time), le montant (Amount) et d'autres variables anonymisées. La variable cible « Classe » indique si une transaction est frauduleuse (Classe 1) ou normale (Classe 0).
+L'ensemble de données utilisé pour ce projet est chargé à partir d'un fichier CSV nommé « creditcard.csv » (link: "https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv"). Il comprend des fonctionnalités telles que le temps de transaction (Time), le montant (Amount) et d'autres variables anonymisées. La variable cible « Classe » indique si une transaction est frauduleuse (Classe 1) ou normale (Classe 0).
 
 ## Model Development
 
